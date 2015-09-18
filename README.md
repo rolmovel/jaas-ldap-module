@@ -1,6 +1,8 @@
 # Jaas Login Module
 ## Descripción
 Módulo para la autorización y autenticación de usuarios mediante el framwork JAAS contra un repositorio de datos LDAP.
+Se han creado dos clases de test que pueden ser utilizadas como plantilla para crear nuevos conectores
+
 
 ## Instaltación
 1. Compilar el proyecto:
