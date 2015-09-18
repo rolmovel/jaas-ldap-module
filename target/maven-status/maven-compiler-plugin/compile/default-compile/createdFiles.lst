@@ -1,0 +1,3 @@
+org/keedio/jaas/impl/SimpleLdapLoginModule.class
+org/keedio/jaas/impl/TestCallbackHandler.class
+org/keedio/jaas/impl/TestLoginModule.class
